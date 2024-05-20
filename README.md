@@ -16,7 +16,8 @@ python client.py
 Enter a username when prompted and start chatting
 
 ## Features
-Real-time messaging < br>
+Real-time messaging
+
 Multiple clients can connect simultaneously
 
 ## License
