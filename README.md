@@ -13,12 +13,11 @@ Open another terminal and run the client:
 ```
 python client.py
 ```
-Enter a username when prompted and start chatting!
+Enter a username when prompted and start chatting
 
 ## Features
-Real-time messaging
+Real-time messaging < br>
 Multiple clients can connect simultaneously
 
 ## License
 This project is licensed under the MIT License.
-
