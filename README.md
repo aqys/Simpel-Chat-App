@@ -1,5 +1,5 @@
 # Simple Chat App
-This project is a basic chat application using Python sockets. It allows clients to connect to a server and exchange messages.
+This is a basic chat application using Python sockts and TCP. It allows clients to connect to a server and send/read messages.
 
 ## Getting Started
 Clone this repository.
@@ -18,8 +18,6 @@ Enter a username when prompted and start chatting!
 ## Features
 Real-time messaging
 Multiple clients can connect simultaneously
-Contributing
-Contributions are welcome! Feel free to open a pull request or report any issues.
 
 ## License
 This project is licensed under the MIT License.
